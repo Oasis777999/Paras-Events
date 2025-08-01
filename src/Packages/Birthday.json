@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Diamond Package",
+    "description": "Luxurious setup for premium birthday celebrations",
+    "features": [
+      "Attractive Entry Balloon Gate",
+      "6ft Thermocol Cutouts",
+      "2 Balloons Pillar on Stage",
+      "Cake Table Decoration",
+      "Full Balloon’s Decoration in Party Area",
+      "800 Balloon’s Uses Decoration",
+      "8×10 Size Backdrop Up Side Curtain Draping",
+      "Attractive name of the Birthday Child in Thermocol / On Board",
+      "8 Cutouts on stage",
+      "Party Paper Caps",
+      "Party Paper Face Mask Unlimited",
+      "Cake Cutting Knife",
+      "Musical Candle",
+      "Ceiling Balloon Decoration",
+      "Celebration Cracker",
+      "Colour Changing Light Effect",
+      "Themewise Decoration",
+      "Special Entry With the Child’s Photo (*Transport Charges Extra)"
+    ],
+    "popular": false,
+    "gradient": "from-gold to-gold-light"
+  },
+  {
+    "name": "Platinum Package",
+    "description": "Comprehensive decoration package for grand birthday celebrations",
+    "features": [
+      "Themewise Decoration",
+      "Cake Table Decoration",
+      "6ft Thermocol Cutouts",
+      "Party Paper Caps",
+      "Cake Cutting Knife",
+      "Musical Candle",
+      "Celebration Cracker",
+      "Attractive name of the Birthday Child in Thermocol / On Board",
+      "Colour Changing Light Effect",
+      "500 Balloons Used in Decoration",
+      "Entry Balloon Arch",
+      "Ceiling Balloon Decoration",
+      "Backdrop & 2D Set Ups (*Transport Charges Extra)"
+    ],
+    "popular": false,
+    "gradient": "from-purple-deep to-purple-light"
+  },
+  {
+    "name": "Gold Package",
+    "description": "A premium option for mid-size birthday celebrations",
+    "features": [
+      "Attractive Entry Balloon Gate",
+      "6ft Thermocol Cutouts",
+      "2 Balloons Pillar on Stage",
+      "Cake Table Decoration",
+      "Full Balloon’s Decoration in Party Area",
+      "400 Balloon’s Uses Decoration",
+      "8x10 Size Backdrop Up side Curtain Draping",
+      "Attractive name of the Birthday Child in Thermocol / On Board",
+      "6 Cutouts on stage",
+      "Party Paper Caps Unlimited",
+      "Cake Cutting Knife",
+      "Musical Candle",
+      "Ceiling Balloon Decoration",
+      "Celebration Cracker",
+      "Colour Changing Light Effect",
+      "Themewise Decoration",
+      "Entry Balloon Arch (*Transport Charges Extra)"
+    ],
+    "popular": false,
+    "gradient": "from-rose-gold to-gold"
+  },
+  {
+    "name": "Silver Package",
+    "description": "An ideal package for small to mid-size birthday events",
+    "features": [
+      "Attractive Entry Balloon Gate",
+      "6ft Thermocol Cutouts",
+      "2 Balloons Pillar on Stage",
+      "Cake Table Decoration",
+      "Full Balloon’s Decoration in Party Area",
+      "250 Balloon’s Uses Decoration",
+      "8x10 Size Backdrop Up side Curtain Draping",
+      "Attractive name of the Birthday Child in Thermocol / On Board",
+      "6 Cutouts on stage",
+      "Party Paper Caps (20 qty)",
+      "Party Paper Face Masks (20 qty)",
+      "Cake Cutting Knife",
+      "Musical Candle",
+      "Ceiling Balloon Decoration",
+      "Celebration Cracker",
+      "Colour Changing Light Effect",
+      "Themewise Decoration",
+      "Entry Balloon Arch (*Transport Charges Extra)"
+    ],
+    "popular": false,
+    "gradient": "from-rose-gold to-gold"
+  },
+  {
+    "name": "Basic Package",
+    "description": "Essential birthday setup for small gatherings",
+    "features": [
+      "Cake Table Decoration",
+      "Balloon’s Decoration In Party Area",
+      "50 Balloon’s Uses Decoration",
+      "Balloon Gate Backdrop Behind the Stage",
+      "Attractive Name Of Birthday Child In Thermocol / On Board",
+      "Ceiling Balloons 100 No. (*Transport charges Extra)"
+    ],
+    "popular": false,
+    "gradient": "from-rose-gold to-gold"
+  }
+]

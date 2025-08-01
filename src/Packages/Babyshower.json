@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Dimond Package",
+    "description": "Elegant setup for memorable engagement ceremonies",
+    "features": [
+      "Attractive Jhula with Artificial Flower Decoration",
+    "8×10 Size Backdrop on the Stage with Draping",
+    "Entry Decoration with Draping",
+    "Thermocol Moon Cutout",
+    "Thermocol Lotus",
+    "Thermocol Mayur Rath Cutout",
+    "Provision of Baby Shower Function Accessories:",
+    "  - Original Flower Jewellery",
+    "  - Baju Badh (Armlet)",
+    "  - 1 Har (Garland)",
+    "  - Kamar Patta (Waist Belt)",
+    "  - Mukut (Crown)",
+    "  - Flower Basket"
+    ],
+    "popular": false,
+    "gradient": "from-gold to-gold-light"
+  },
+  {
+    "name": "Gold Package",
+    "description": "Celebrate anniversaries with elegant decoration and warm ambiance",
+    "features": [
+       "Attractive Jhula with Original Flower Decoration",
+    "8×10 Size Backdrop on the Stage with Draping",
+    "Entry Decoration with Draping",
+    "Thermocol Moon Cutout",
+    "Changing Light Effect",
+    "Thermocol Lotus",
+    "Thermocol Mayur Rath Cutout",
+    "Provision of Baby Shower Function Accessories"
+    ],
+    "popular": false,
+    "gradient": "from-purple-deep to-purple-light"
+  },
+  {
+    "name": "Custom Package",
+    "description": "A grand and elegant setup for a dream wedding celebration",
+    "features": [
+     "You can customize the package as per your requirement."
+    ],
+    "popular": false,
+    "gradient": "from-rose-gold to-gold"
+  }
+]
