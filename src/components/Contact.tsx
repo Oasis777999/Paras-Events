@@ -96,7 +96,7 @@ const Contact = () => {
             {/* Quick Actions */}
             <div className="space-y-4">
               <a
-                href="https://wa.me/919890197070"
+                href="https://wa.me/919226365365"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full"
