@@ -249,10 +249,10 @@ const Contact = () => {
         </div>
 
         {/* Map Section */}
-        <div className="mt-16">
+        <div className="mt-5">
           <Card className="border-0 shadow-card overflow-hidden">
             <CardHeader>
-              <CardTitle className="text-2xl font-bold text-purple-deep text-center">
+              <CardTitle className="text-2xl font-bold text-purple-deep text-center p-2">
                 Visit Our Office
               </CardTitle>
               <CardDescription className="text-center">
